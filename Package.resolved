@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "sugarfab",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Gishyan93/SugarFAB",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5912c8314c9356742a08ce4056aca36ac99cd78e"
+      }
+    },
+    {
+      "identity" : "sugartoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Gishyan93/SugarToast",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0effc23255e37e49899d0d91765432aad3e9586a"
+      }
+    }
+  ],
+  "version" : 2
+}
