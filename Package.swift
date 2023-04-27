@@ -14,8 +14,8 @@ let package = Package(
             targets: ["SugarKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/myorg/SugarFAB.git", branch: "main"),
-        .package(url: "https://github.com/myorg/SugarToast.git", branch: "main")
+        .package(url: "https://github.com/Gishyan93/SugarFAB.git", branch: "main"),
+        .package(url: "https://github.com/Gishyan93/SugarToast.git", branch: "main")
     ],
     targets: [
         .target(
